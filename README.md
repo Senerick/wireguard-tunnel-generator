@@ -8,7 +8,7 @@ Hi and welcome! Click the button below if you enjoy the software and want to sup
 ## 🤓 Introduction
 A simple bash script to speed up and simplify the deployment of WireGuard Road Warriors (mobile VPN clients) connecting to a MikroTik firewall running RouterOS.
 
-The script will produce the RouterOS configuration required as well as a QR code to scan with the WireGuard mobile app. This will enable you to deploy a new mobile VPN client within a minute or two, and you don't have to send public keys back and forth between the mobile device and the router.
+The script will produce the RouterOS configuration required as well as a QR code to scan with the WireGuard mobile app. This will enable you to deploy a new mobile VPN client within a minute or two, and you don't have to send public keys back and forth bet8ween the mobile device and the router.
 
 ## 🕹 Demo
 Here is a small command-line demo showing the WireGuard Tunnel Generator script in action.
